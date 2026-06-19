@@ -1,8 +1,0 @@
-venv/
-.env
-__pycache__/
-*.pyc
-data/services.db
-data/records.xlsx
-uploads/certificates/*
-!uploads/certificates/.gitkeep
